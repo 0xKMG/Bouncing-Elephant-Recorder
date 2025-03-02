@@ -14,7 +14,7 @@ Before starting, make sure you have these installed on your computer:
 ### 1. Clone the Repository
 Open your terminal (Command Prompt on Windows or Terminal on Mac) and run:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/0xKMG/Bouncing-Elephant-Recorder.git
 cd bouncing-elephant
 ```
 
